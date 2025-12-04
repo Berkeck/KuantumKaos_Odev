@@ -1,0 +1,2 @@
+# KuantumKaos_Odev
+NesneOdev
