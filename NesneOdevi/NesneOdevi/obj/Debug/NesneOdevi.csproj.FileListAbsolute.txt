@@ -1,0 +1,7 @@
+C:\Users\Akif\source\repos\NesneOdevi\NesneOdevi\bin\Debug\NesneOdevi.exe.config
+C:\Users\Akif\source\repos\NesneOdevi\NesneOdevi\bin\Debug\NesneOdevi.exe
+C:\Users\Akif\source\repos\NesneOdevi\NesneOdevi\bin\Debug\NesneOdevi.pdb
+C:\Users\Akif\source\repos\NesneOdevi\NesneOdevi\obj\Debug\NesneOdevi.csproj.AssemblyReference.cache
+C:\Users\Akif\source\repos\NesneOdevi\NesneOdevi\obj\Debug\NesneOdevi.csproj.CoreCompileInputs.cache
+C:\Users\Akif\source\repos\NesneOdevi\NesneOdevi\obj\Debug\NesneOdevi.exe
+C:\Users\Akif\source\repos\NesneOdevi\NesneOdevi\obj\Debug\NesneOdevi.pdb
